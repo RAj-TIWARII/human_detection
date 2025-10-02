@@ -318,7 +318,3 @@ Suggestions and improvements are welcome!
 - [x] Application runs successfully
 
 **Congratulations! Your person detection system is ready!** 🎊
-
----
-
-**Created for B.Tech Project | October 2025**
