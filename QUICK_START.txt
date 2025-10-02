@@ -1,0 +1,23 @@
+🎥 QUICK START GUIDE
+==================
+
+1. INSTALL:
+   Windows: Double-click setup_windows.bat
+   Linux/Mac: ./setup_unix.sh
+   Or: python setup.py
+
+2. RUN:
+   python main.py
+
+3. ENJOY:
+   - Green boxes around people
+   - Time in top-left corner
+   - Statistics on right panel
+   - Press Start Detection to begin!
+
+TROUBLESHOOTING:
+- Camera not found? Try: python main.py --camera 1
+- GUI issues? Try: python main.py --mode terminal
+- Poor accuracy? Try: python main.py --method YOLO
+
+That's it! 🚀
